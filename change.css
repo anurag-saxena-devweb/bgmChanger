@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.navbar {
+    background-color: gray;
+    height: 50px;
+    color: cornsilk;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding-top: 10px;
+}
+
+ .maincontent{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#grey {
+    background-color: grey;
+}
+
+#red {
+    background-color: red;
+
+}
+
+#yellow {
+    background-color: yellow
+}
+
+#blue {
+    background-color: blue;
+}
+
